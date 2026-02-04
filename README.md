@@ -51,4 +51,4 @@ Respect the privacy of others. Do not record or process the voices of third part
 Технологии
 Проект построен на [C++/Rust с использованием фреймворка JUCE или Python с SoundDevice, PyAudio] и использует библиотеки для профессиональной обработки звука (libsamplerate, Rubber Band Library, RNNoise для шумоподавления). Интерфейс создан с помощью [Qt/ImGui].
 
-download: 
+download: https://github.com/forever51dr7/Audio-Content-Creator/releases/tag/Audio-Content-Creator
